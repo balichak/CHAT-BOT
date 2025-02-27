@@ -1,0 +1,11 @@
+{
+    "name": "chatbot-app",
+    "version": "1.0.0",
+    "dependencies": {
+      "axios": "latest",
+      "react": "latest",
+      "react-dom": "latest",
+      "react-scripts": "latest"
+    }
+  }
+  
